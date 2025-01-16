@@ -17,7 +17,7 @@ The dataset includes Uber trip records containing:
 - Geographic coordinates for pickup and drop-off locations
 - Trip distances and durations
 
-link:https://drive.google.com/file/d/13GBQha8okB5o68q0-ZiOGd_T9RQwebKk/view?usp=sharing
+The dataset can be found [here](https://drive.google.com/file/d/13GBQha8okB5o68q0-ZiOGd_T9RQwebKk/view?usp=sharing)
 
 ## 🎯 Objectives
 
