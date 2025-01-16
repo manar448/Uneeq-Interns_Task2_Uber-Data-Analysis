@@ -16,6 +16,11 @@ The dataset includes Uber trip records containing: • Pickup and drop-off times
 # Analysis Highlights
 • Time-Based Analysis: o Ride distribution across hours, days, and months o Identification of peak demand times • Location Analysis: o Mapping popular pickup and drop-off areas o Understanding spatial distribution of trips • Demand Forecasting: o Visualizing weekly patterns to predict future trends
 
+# Reports:
+Reports were created to effectively communicate the insights and finding from the data analysis.
+![Uber Analysis](https://github.com/manar448/Uneeq-Interns_Task2_Uber-Data-Analysis/blob/main/Capture.PNG)
+
+
 # Contributing
 Contributions are welcome! Fork the repository, create a branch for your feature or bug fix, and submit a pull request.
 
