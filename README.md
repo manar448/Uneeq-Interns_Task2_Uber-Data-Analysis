@@ -1,4 +1,4 @@
-# 📊 Uneeq-Interns_Task2_Uber Data Analysis
+# 🚗 Uneeq-Interns_Task2_Uber Data Analysis
 
 This project explores Uber trip data using Excel to uncover patterns, trends, and actionable insights. By leveraging Excel's powerful data analysis tools, we visualize ride trends, identify peak demand times, and map popular pickup and drop-off points.
 
